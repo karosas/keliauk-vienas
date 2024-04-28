@@ -7,10 +7,6 @@ cascade:
   invertPagination: true
 ---
 
-{{< typeit 
-  tag=h3
-  lifeLike=true
->}}
-Bus papildyta...
-{{< /typeit >}}
+<h2>Bus papildyta...</h2>
+
 ---

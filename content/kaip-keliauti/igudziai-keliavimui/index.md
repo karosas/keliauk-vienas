@@ -29,9 +29,4 @@ Galbūt labiausiai galimas debatuoti įgūdis - Anglų kalba. Tačiau šios svet
     - Įjunkite dialogo rėžimą Google Vertėjo programėlėje, ir bendraukite taip
     ![Google vertėjas](images/google-vertejas-dialogas.jpg)
 
-{{< typeit 
-  tag=h3
-  lifeLike=true
->}}
-Bus papildyta...
-{{< /typeit >}}
+<h3>Bus papildyta...</h3>

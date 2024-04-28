@@ -17,9 +17,4 @@ Pradedu nuo Booking, nes man patinka jų paieška palyginus su konkurentais. Rad
 
 Planuojant keliones dažnai yra nubaudžiamas žmogus neturintis lėšų viską užsisakyti iš anksto, o su didesnėmis ir ilgesnėmis kelionėmis tas finansinis krūvis gali būti gan didelis. Tam Booking.com duoda galimybę užsisakyti viešbutį, bet atidėti mokėjimą iki tarkim porą savaičių prieš pirmą naktį (Ne visi viešbučiai tarp Booking.com tai palaiko, tad atidžiau skaitykit aprašymus).
 
-{{< typeit 
-  tag=h3
-  lifeLike=true
->}}
-Bus papildyta...
-{{< /typeit >}}
+<h3>Bus papildyta...</h3>

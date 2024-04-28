@@ -10,11 +10,6 @@ cascade:
 
 Mano noras yra pabandyti padėti įvairiems žmonėms susiorganizuoti keliones patiems. Ši straipsnių/gidų serija yra būtent tam ir skirta.
 
-{{< typeit 
-  tag=h3
-  lifeLike=true
->}}
-Bus papildyta...
-{{< /typeit >}}
+<h3>Bus papildyta...</h3>
 
 ---
