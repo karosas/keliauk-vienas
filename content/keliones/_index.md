@@ -6,10 +6,11 @@ cascade:
   showAuthor: false
   invertPagination: true
 ---
-{{< lead >}}
-Lead
-{{< /lead >}}
 
-Posts
-
+{{< typeit 
+  tag=h3
+  lifeLike=true
+>}}
+Bus papildyta...
+{{< /typeit >}}
 ---
