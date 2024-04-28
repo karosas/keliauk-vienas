@@ -1,0 +1,71 @@
+global:
+  language: "LT"
+
+article:
+  anchor_label: "Ankeris"
+  date: "{{ .Date }}"
+  date_updated: "Atnaujinta: {{ .Date }}"
+  draft: "Juodraštis"
+  edit_title: "Redaguoti turinį"
+  reading_time:
+    one: "{{ .Count }} minutė"
+    other: "{{ .Count }} minutės"
+  reading_time_title: "Skaitymo laikas"
+  table_of_contents: "Turinys"
+  word_count:
+    one: "{{ .Count }} žodis"
+    other: "{{ .Count }} žodžiai"
+  views:
+    one: "{{ .Count }} peržiūra"
+    other: "{{ .Count }} peržiūros"
+  likes:
+    one: "{{ .Count }} patinka"
+    other: "{{ .Count }} patinka"
+  part_of_series: "Šis straipsnis yra serijos dalis."
+  part: ""
+  this_article: "Šis straipsnis"
+  related_articles: "Susijęs"
+  zen_mode_title:
+    enable: "Įjungti zen režimą"
+    disable: "Išjungti zen režimą"
+
+author:
+  byline_title: "Autorius"
+
+code:
+  copy: "Kopijuoti"
+  copied: "Nukopijuota"
+
+error:
+  404_title: "Puslapis nerastas :confused:"
+  404_error: "Klaida 404"
+  404_description: "Šis puslapis nerastas."
+
+footer:
+  dark_appearance: "Perjungti į tamsią temą"
+  light_appearance: "Perjungti į šviesią temą"
+  powered_by: "Sukurta su {{ .Hugo }} &amp; {{ .Theme }}"
+
+list:
+  externalurl_title: "Nuoroda į išorinę svetainę"
+  no_articles: "Nėra susijusių straipsnių, kuriuos būtu galima čia pateikti."
+
+nav:
+  scroll_to_top_title: "Slinkite į viršų"
+  skip_to_main: "Pereiti prie pagrindinio turinio"
+
+search:
+  open_button_title: "Ieškoti (/)"
+  close_button_title: "Uždaryti (Esc)"
+  input_placeholder: "Ieškoti"
+
+sharing:
+  email: "Siųsti el. paštu"
+  facebook: "Dalintis Facebook'e"
+  linkedin: "Dalintis LinkedIn'e"
+
+shortcode:
+  recent_articles: "Naujausi straipsniai"
+
+recent:
+  show_more: "Rodyti daugiau"
