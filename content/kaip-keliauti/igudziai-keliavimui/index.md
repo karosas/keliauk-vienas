@@ -3,10 +3,7 @@ title: "Įgūdžiai keliavimui ir jų planavimui"
 description: "Ką išmokus galima pasilengvinti sau gyvenimą"
 date: 2024-04-28
 slug: "planavimo-igudziai"
-series: ["Kaip keliauti vienam"]
-series_order: 1
-weight: 1
-seriesOpened: true
+weight: 100
 ---
 
 Pradžiai noriu aptarti įvairius įgūdžius kurie gali jums padėti ir jų būtinumą.
@@ -23,7 +20,7 @@ Kaip google ar panašiais paieškų varikliais nemokinsiu, informacijos yra piln
 
 ## Anglų kalba
 
-Galbūt labiausiai galimas debatuoti įgūdis - Anglų kalba. Tačiau šios svetainės formatos debatų neleidžia, o aš sakau, kad anglų kalba nėra būtina (tačiau **labai** viska palengvina). Tą sakau paprasčiausiai dėl to, jog manau technologijos gali užpildyti šio įgūdžio paliktą tarpą, o tiksliau viena programėlė - [Google Vertėjas](https://translate.google.com/intl/lt/about/).
+Galbūt labiausiai galimas debatuoti įgūdis - Anglų kalba. Tačiau šios svetainės formatos debatų neleidžia, o aš sakau, kad anglų kalba nėra būtina (tačiau **labai** viska palengvina). Tą sakau paprasčiausiai dėl to, jog manau technologijos gali užpildyti šio įgūdžio paliktą tarpą, o tiksliau viena programėlė - [Google Vertėjas](https½½//translate.google.com/intl/lt/about/).
 - Oro linijų svetainė nėra išversta į Lietuvių kalbą?
     - Jeigu naudojate 'Google Chrome' naršyklę, ji jums pasiūlys išversti turinį į jūsų norimą kalbą.
 - Kelionėje nesuprantate kokio nors teksto ant sienos?

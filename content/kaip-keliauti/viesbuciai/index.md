@@ -3,10 +3,7 @@ title: "Viešbučiai"
 description: "Kur jų ieškoti, kaip susirasti geresnes vietas miestuose"
 date: 2024-04-28
 slug: "viesbuciai"
-series: ["Kaip keliauti vienam"]
-series_order: 3
-weight: 3
-seriesOpened: true
+weight: 98
 ---
 
 Ši dalis šiek tiek priklausys nuo poreikių, norų ir biudžeto.

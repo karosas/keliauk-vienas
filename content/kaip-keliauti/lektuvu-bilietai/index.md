@@ -3,10 +3,7 @@ title: "Lėktuvų bilietai"
 description: "Kaip ir kur surasti lėktuvų bilietus"
 date: 2024-04-28
 slug: "lektuvu-bilietai"
-series: ["Kaip keliauti vienam"]
-series_order: 2
-weight: 2
-seriesOpened: true
+weight: 99
 ---
 
 Beveik visada pirmas pirkinys mano kelionės planavimo procese būną lėktuvo bilietai, nes:
