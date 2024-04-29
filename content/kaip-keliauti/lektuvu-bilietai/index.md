@@ -21,7 +21,7 @@ Neapsiribokite viena ar dviem specifinėm oro linijom (nebent galbūt renkate j�
 Mano įrenginiuose yra nustatyta anglų kalba ir danų kronos valiuta, bet svetainė yra išversta į Lietuvių kalbą ir palaiko kitas valiutas
 {{< /alert >}}
 
-![Google Skrydziai](images/google-skrydziai.png)
+![Google Skrydziai](images/google-skrydziai-0-lt.png)
 
 Labai patogus įrankis, kuriame vienu metu galite nurodyti keletą išvykimo/atvykimo taškų susirasti gerus pasiūlymus.
 
@@ -29,13 +29,13 @@ Keletas pavyzdžių/patarimų kaip naudotis:
 
 - Žinote iš/į kur norite skristi ir kiek laiko ten praleisti, tiesiog norit susirasti pigiausia variantą:
     - Pasirinkite miestus, paspauskite ant datos ir apačioje nurodykite kelionės trukmę:
-    ![Google Skrydziai](images/google-skrydziai-1.png)
+    ![Google Skrydziai](images/google-skrydziai-1-lt.png)
 - Žinote į kur norite skristi, bet nesvarbu iš kurio Lietuvos oro uosto:
     - Renkantis išvykimo vietą paspauskite `+` ir pasirinkite daugiau oro uostų:
-    ![Google Skrydziai](images/google-skrydziai-2.png)
+    ![Google Skrydziai](images/google-skrydziai-2-lt.png)
 - Nežinote kur norit nuvykti
     - Nueikite į "Tyrinėti" (angl. "Explore) skiltį, pasirinkite išvykimo tašką ir laiką (tarkim savaitę rugpjūtį):
-    ![Google Skrydziai](images/google-skrydziai-3.png)
+    ![Google Skrydziai](images/google-skrydziai-3-lt.png)
 
 {{< alert >}}
 Patarimas - visada pirkite lėktuvų bilietus iš oro linijų. Kartais jie būna pigesni iš perpardavėjų, bet dažnai prarandat įvairias apsaugas.
