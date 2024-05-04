@@ -20,6 +20,11 @@
   pageRef = "kaip-keliauti"
   weight = 10
 
+[[main]]
+  name = "RSS"
+  url = "https://keliaukvienas.lt/index.xml"
+  weight = 10
+
 #[[main]]
 #  name = "Blog"
 #  pageRef = "posts"
