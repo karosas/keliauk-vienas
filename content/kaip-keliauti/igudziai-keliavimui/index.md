@@ -1,5 +1,5 @@
 ---
-title: "Įgūdžiai keliavimui ir jų planavimui"
+title: "1. Įgūdžiai keliavimui ir jų planavimui"
 description: "Ką išmokus galima pasilengvinti sau gyvenimą"
 date: 2024-04-28
 slug: "planavimo-igudziai"
