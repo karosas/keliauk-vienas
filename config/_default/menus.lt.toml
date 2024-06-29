@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Kelionės"
-  pageRef = "keliones"
+  name = "Šalių Gidai"
+  pageRef = "salys"
   weight = 10
 
 [[main]]
