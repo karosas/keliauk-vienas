@@ -1,5 +1,5 @@
 ---
-title: "Viešbučiai"
+title: "3. Viešbučiai"
 description: "Kur jų ieškoti, kaip susirasti geresnes vietas miestuose"
 date: 2024-04-28
 slug: "viesbuciai"

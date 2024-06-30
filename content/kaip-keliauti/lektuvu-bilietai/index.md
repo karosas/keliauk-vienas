@@ -1,5 +1,5 @@
 ---
-title: "Lėktuvų bilietai"
+title: "2. Lėktuvų bilietai"
 description: "Kaip ir kur surasti lėktuvų bilietus"
 date: 2024-04-28
 slug: "lektuvu-bilietai"
