@@ -11,19 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Kaip Keliauti"
+  pageRef = "kaip-keliauti"
+  weight = 1
+
+[[main]]
   name = "Šalių Gidai"
   pageRef = "salys"
   weight = 10
 
 [[main]]
-  name = "Kaip Keliauti"
-  pageRef = "kaip-keliauti"
-  weight = 10
-
-[[main]]
   name = "RSS"
   url = "https://keliaukvienas.lt/index.xml"
-  weight = 10
+  weight = 100
 
 #[[main]]
 #  name = "Blog"
