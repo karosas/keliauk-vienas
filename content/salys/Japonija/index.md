@@ -67,6 +67,8 @@ Japonija turistams turi įvairių traukinių bilietų 'paketų', populiariausias
 
 Šiuo metu 7 dienų rail pass kainuoja 50.000 jenų (~290 EUR). Populiariausias turistų maršrutas pirmą kartą Japonijoje paprastai yra Tokijus - Kyoto - Osaka - Tokijus.
 
+Greitųjų traukinių kainos perkant savarankiškai:
+
 - Tokijus - Kyoto: 13.970 jenų (~81 EUR)
 - Kyoto - Osaka: 1.670 jenų (greitasis traukinys) / 580 jenų (regioninis traukinys, 15 minu2ių lėtesnis)
 - Osaka - Tokijus: 14.520 (~84 eurai)
@@ -77,6 +79,22 @@ P.S. traukinių kainas galit pamatyti tiesiog Google žemėlapiuose:
 ![Google žemėlapiai, traukinių kaina](images/google-zemelapiai-kaina.png)
 
 Tarp kitko yra daugiau panašių traukinių paketų skirtų mažesniems regionams kurie gali tikti jūsų kelionei - https://www.japan-guide.com/e/e2357.html
+
+### Plačiau apie greituosius traukinius (shinkansen)
+
+Jų bilietai yra iš tikrųjų du bilietai - bazinis bilietas ir vietos rezervacija. Paprastai kiekvienas traukinys turi viena ar du vagonus kuriame galima sėdėti be vietos rezervacijos (perkant bilietus automate galima matyti ir kiek atsimenu būna pranešama traukinyje kuris vagonas yra be rezervacijos), bet visos kitos vietos yra rezervuotos, tad įsitikinkit jog sėdat į savo vietą.
+
+Bilietus galima nusipirkti pardavimo automatuose, stotyse kuriose stoja greitieji traukiniai:
+
+![Shinkansen bilietų automatai](images/shinkansen-bilietai.jpg)
+
+Paprastai juos galima nusipirkti prieš kelionę ir nereikia to daryti iš anksto, nebent norit labai specifinių vietų.
+
+#### Fuji kalno vaizdas iš greitojo traukinio
+
+![Fuji iš traukinio](images/fuji-is-traukinio.jpg)
+
+Važiuojant greituoju traukiniu Tokijus - Kijotas/Osaka yra momentas kada galite pamatyti Fuji kalną (jeigu orai tai leis). Norint jį pamatyti iš savo sėdimos vietos, rinkitės 'E' eilę (nesvarbu ar važiuojat iš ar į Tokijų, nesikeičia). Kalnas bus matomas ~45 minutės nuo išvykimo iš Tokijaus (arba likus ~45 minutėm iki Tokijaus).
 
 ## Internetas
 
