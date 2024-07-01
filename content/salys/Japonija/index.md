@@ -43,17 +43,19 @@ Pigesni bilietai palyginus su Kovu-Balandžiu (Sakurų žiedų sezonas kuris pri
 
 Metro, traukiniams bei autobusams nusipirkit IC kortelę, yra ne viena, bet populiariausios kiek žinau yra "Suica" bei "Pasmo":
 
+![IC korteles](images/ic-korteles.jfif)
+
 > Pastaba - jeigu turit IPhone telefoną, galit naudoti jį vietoj fizinės kortelės - https://support.apple.com/lt-lt/108772
 
 Kiek žinau skirtumų tarp jų kaip ir nėra, tiesiog skirtingi savininkai. Jas galima nusipirkti beveik visuose oro uostuose vos nusileidus, bei didesnėse traukinių/metro stotyse. Ieškokit "JR East Travel Service Center" (tarkim Narita oro uoste jis yra prie pat traukinių linijų, šalia 'FamilyMart') arba pardavimo/papildymo automatų, tačiau ne visi išduoda korteles:
 
-![IC automatas](/images/ic-automatas.jpg)
+![IC automatas](images/ic-automatas.jpg)
 
 #### Naudojimas
 
 Įeinant į visas metro stotelės yra vartai:
 
-![Metro Vartai](/images/metro-vartai.jpg)
+![Metro Vartai](images/metro-vartai.jpg)
 
 Į juos galima įdėti popierinį bilietą, arba pridėti kortelę prie ryškaus "IC" ženklo, po kurio atsidaro vartai. Tas pats išeinant iš stoties.
 
@@ -72,7 +74,7 @@ Japonija turistams turi įvairių traukinių bilietų 'paketų', populiariausias
 Iš viso 30.160 jenų kas yra beveik perpus pigiau nei Rail Pass.
 
 P.S. traukinių kainas galit pamatyti tiesiog Google žemėlapiuose: 
-![Google žemėlapiai, traukinių kaina](/images/google-zemelapiai-kaina.png)
+![Google žemėlapiai, traukinių kaina](images/google-zemelapiai-kaina.png)
 
 Tarp kitko yra daugiau panašių traukinių paketų skirtų mažesniems regionams kurie gali tikti jūsų kelionei - https://www.japan-guide.com/e/e2357.html
 
@@ -106,4 +108,4 @@ Yra 3 pagrindiniai pasirinkimai:
 - Nekalbėkit telefonu viešam transporte
 - Didžioji dalis viešbučių turi skalbimo mašinas, nepersikraukit drabužių
 - Jeigu norit pamatyti Sumo - planuokit iš anksto. Per metus tėra 6 turnyrai (ne visi Tokijuje) ir bilietai yra gan populiarūs
-  - ![sumo](/images/sumo.jpg)
+  - ![sumo](images/sumo.jpg)
