@@ -43,8 +43,6 @@ Pigesni bilietai palyginus su Kovu-Balandžiu (Sakurų žiedų sezonas kuris pri
 
 Metro, traukiniams bei autobusams nusipirkit IC kortelę, yra ne viena, bet populiariausios kiek žinau yra "Suica" bei "Pasmo":
 
-![IC korteles](images/ic-korteles.jfif)
-
 > Pastaba - jeigu turit IPhone telefoną, galit naudoti jį vietoj fizinės kortelės - https://support.apple.com/lt-lt/108772
 
 Kiek žinau skirtumų tarp jų kaip ir nėra, tiesiog skirtingi savininkai. Jas galima nusipirkti beveik visuose oro uostuose vos nusileidus, bei didesnėse traukinių/metro stotyse. Ieškokit "JR East Travel Service Center" (tarkim Narita oro uoste jis yra prie pat traukinių linijų, šalia 'FamilyMart') arba pardavimo/papildymo automatų, tačiau ne visi išduoda korteles:
