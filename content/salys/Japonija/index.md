@@ -92,7 +92,7 @@ Paprastai juos galima nusipirkti prieš kelionę ir nereikia to daryti iš ankst
 
 #### Fuji kalno vaizdas iš greitojo traukinio
 
-![Fuji iš traukinio](images/fuji-is-traukinio.jpg)
+![Fuji iš traukinio](images/fuji-is-traukinio.png)
 
 Važiuojant greituoju traukiniu Tokijus - Kijotas/Osaka yra momentas kada galite pamatyti Fuji kalną (jeigu orai tai leis). Norint jį pamatyti iš savo sėdimos vietos, rinkitės 'E' eilę (nesvarbu ar važiuojat iš ar į Tokijų, nesikeičia). Kalnas bus matomas ~45 minutės nuo išvykimo iš Tokijaus (arba likus ~45 minutėm iki Tokijaus).
 
